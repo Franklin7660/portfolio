@@ -70,7 +70,7 @@ export default async function initGame() {
     const setInitCamZoomValue = () => {
         if (k.width() < 1000) {
             k.camScale(k.vec2(0.5));
-            store.set(cameraZoomValueAtom, 0.5);
+            store.set(cameraZoomValueAtom, 2);
             return;
         }
         k.camScale(k.vec2(0.8));
