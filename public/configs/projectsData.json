@@ -1,0 +1,87 @@
+[
+  {
+    "pos": {
+      "x": 0,
+      "y": 350
+    },
+    "thumbnail": "health-logo",
+    "data": {
+      "title": "Medical vent pressure prediction",
+      "links": [
+        {
+          "id": 1,
+          "name": "Source Code",
+          "link": "https://github.com/joelkdb/DeepL-vent-pressure-prediction"
+        }
+      ]
+    }
+  },
+  {
+    "pos": {
+      "x": 0,
+      "y": 840
+    },
+    "thumbnail": "truck-logo",
+    "data": {
+      "title": "Delivery routing optimization",
+      "links": [
+        {
+          "id": 1,
+          "name": "Source Code",
+          "link": "https://github.com/ssbat/VRP"
+        }
+      ]
+    }
+  },
+  {
+    "pos": {
+      "x": 0,
+      "y": 1320
+    },
+    "thumbnail": "bank-logo",
+    "data": {
+      "title": "Loan approval prediction",
+      "links": [
+        {
+          "id": 1,
+          "name": "Source Code",
+          "link": "https://github.com/Franklin7660/loan_prediction_DS52"
+        }
+      ]
+    }
+  },
+  {
+    "pos": {
+      "x": 0,
+      "y": 1810
+    },
+    "thumbnail": "ant-logo",
+    "data": {
+      "title": "Ant emergence simulation",
+      "links": [
+        {
+          "id": 1,
+          "name": "Source Code",
+          "link": "https://github.com/Franklin7660/ant_simulation"
+        }
+      ]
+    }
+  },
+  {
+    "pos": {
+      "x": 0,
+      "y": 2300
+    },
+    "thumbnail": "map-logo",
+    "data": {
+      "title": "Interactive graph editor",
+      "links": [
+        {
+          "id": 1,
+          "name": "Source Code",
+          "link": "https://github.com/Franklin7660/AP4B_miniProjet"
+        }
+      ]
+    }
+  }
+]

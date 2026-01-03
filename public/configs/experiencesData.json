@@ -1,0 +1,18 @@
+[
+  {
+    "pos": {
+      "x": 150,
+      "y": 0
+    },
+    "cardHeight": 250,
+    "roleData": {
+      "title": "Data Science Intern",
+      "description": "Worked as part of the Research department. My responsibilities included data analysis and visualization: heatmaps for customer activity, dashboards to monitor KPIs for Upply's Smart product. Coded with Python and its libraries, such as Geopandas and Folium, alongside tools like Databricks and PowerBI, to process and present data efficiently. Additionally, I collaborated on projects involving predictive pricing models, data cleaning, and optimization for transport logistics. This experience enriched my technical skills and provided valuable insight into the dynamics of a data-driven start-up.",
+      "company": {
+        "name": "Upply",
+        "startDate": "February 2024",
+        "endDate": "july 2024"
+      }
+    }
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "pos": {
+      "x": -400,
+      "y": 0
+    },
+    "name": "Analysis",
+    "logoData": {
+      "name": "analysis-logo",
+      "width": 128,
+      "height": 110
+    }
+  },
+  {
+    "pos": {
+      "x": -200,
+      "y": 0
+    },
+    "name": "Python",
+    "logoData": {
+      "name": "python-logo",
+      "width": 128,
+      "height": 128
+    }
+  },
+  {
+    "pos": {
+      "x": -400,
+      "y": -250
+    },
+    "name": "Team work",
+    "logoData": {
+      "name": "team-logo",
+      "width": 128,
+      "height": 128
+    }
+  },
+  {
+    "pos": {
+      "x": -200,
+      "y": -250
+    },
+    "name": "Cloud",
+    "logoData": {
+      "name": "cloud-logo",
+      "width": 180,
+      "height": 180
+    }
+  },
+  {
+    "pos": {
+      "x": -200,
+      "y": 250
+    },
+    "name": "SQL",
+    "logoData": {
+      "name": "postgres-logo",
+      "width": 128,
+      "height": 128
+    }
+  },
+  {
+    "pos": {
+      "x": -400,
+      "y": 250
+    },
+    "name": "ML Ops",
+    "logoData": {
+      "name": "ml-logo",
+      "width": 128,
+      "height": 128
+    }
+  }
+]

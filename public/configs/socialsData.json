@@ -1,0 +1,43 @@
+[
+  {
+    "pos": {
+      "x": 300,
+      "y": 250
+    },
+    "name": "GitHub",
+    "description": "GitHub is where I host my projects.",
+    "link": "https://github.com/franklin7660",
+    "logoData": {
+      "name": "github-logo",
+      "width": 228.6,
+      "height": 179.5
+    }
+  },
+  {
+    "pos": {
+      "x": 700,
+      "y": 250
+    },
+    "name": "LinkedIn",
+    "description": "Here is my LinkedIn profile.",
+    "link": "https://linkedin.com/in/françois-delcroix-41997a231",
+    "logoData": {
+      "name": "linkedin-logo",
+      "width": 128,
+      "height": 128
+    }
+  },
+  {
+    "pos": {
+      "x": 1100,
+      "y": 250
+    },
+    "name": "Email",
+    "address": "francois.delcroix@utbm.fr",
+    "logoData": {
+      "name": "email-logo",
+      "width": 128,
+      "height": 128
+    }
+  }
+]
