@@ -68,8 +68,8 @@ export default async function initGame() {
     }
 
     const setInitCamZoomValue = () => {
-        k.camScale(k.vec2(0.1));
-        store.set(cameraZoomValueAtom, 0.1);
+        k.camScale(k.vec2(0.4));
+        store.set(cameraZoomValueAtom, 0.4);
     };
     setInitCamZoomValue();
 
