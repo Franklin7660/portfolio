@@ -5,5 +5,5 @@ export const PALETTE = {
 };
 
 export const DIAGONAL_FACTOR = 0.7071; // Approximation of 1/sqrt(2)
-export const ZOOM_MAX_BOUND = 2;
-export const ZOOM_MIN_BOUND = 0.2;
+export const ZOOM_MAX_BOUND = 4;
+export const ZOOM_MIN_BOUND = 0.1;
