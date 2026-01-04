@@ -18,18 +18,6 @@ export default async function initGame() {
     const experiencesData = await (await fetch("./configs/experiencesData.json")).json();
 
     const k = makeKaplayCtx();
-    const {
-        add,
-        rect,
-        width,
-        height,
-        pos,
-        anchor,
-        fixed,
-        shader,
-        vec2,
-        time,
-    } = k;
     k.loadSprite("player", "./sprites/player.png", {
         sliceX: 6,
         sliceY: 8,

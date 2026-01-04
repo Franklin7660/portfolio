@@ -83,8 +83,8 @@ html {
 }
 
 .modal-content>h1,
-span,
-p {
+.modal-content>span,
+.modal-content>p {
     color: var(--color1);
 }
 

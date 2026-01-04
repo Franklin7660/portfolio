@@ -8,6 +8,7 @@ export default function makeWorkExperienceCard(
   height,
   roleData
 ) {
+  const cardHeight = height ?? 500;
   const card = parent.add([
     k.rect(600, 500, { radius: 8 }),
     k.area(),
@@ -26,7 +27,6 @@ export default function makeWorkExperienceCard(
   ]);
 
   const history = card.add([
-    k.text("hello world!"),
     k.text(
       `${roleData.company.name} -- ${roleData.company.startDate}-${roleData.company.endDate}`,
       {
