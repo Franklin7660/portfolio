@@ -1,6 +1,6 @@
 # Interactive web portfolio (mini-game)
 
-# LINK -> https://franklin7660.github.io/portfolio/
+## LINK -> https://franklin7660.github.io/portfolio/
 
 A portfolio you explore like a small interactive experience: a **game-like canvas** in the background + a **React UI** on top for controls and modals (links, email, projects).
 
