@@ -57,11 +57,6 @@ export default async function initGame() {
     k.loadSprite("analysis-logo", "./logos/analysis-logo.png");
     k.loadSprite("ml-logo", "./logos/ml-logo.png");
     k.loadSprite("team-logo", "./logos/team-logo.png");
-    // k.loadSprite("bank-logo", "./logos/bank-logo.png");
-    // k.loadSprite("ant-logo", "./logos/ant-logo.png");
-    // k.loadSprite("health-logo", "./logos/health-logo.png");
-    // k.loadSprite("truck-logo", "./logos/truck-logo.png");
-    // k.loadSprite("map-logo", "./logos/map-logo.png");
 
     for (const project of projectsData) {
         k.loadSprite(project.thumbnail, `./projects/${project.thumbnail}.png`);
